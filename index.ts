@@ -2,7 +2,7 @@
 import inquirer from "inquirer";
 
 const randomNumber = Math.floor(Math.random() * 7 + 1);
-const name = "Wellcome "
+const name = "Wellcome ";
 const answer = await inquirer.prompt([
   {
     name: "userGuessedNumber",
