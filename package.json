@@ -1,0 +1,21 @@
+{
+  "name": "cli-number-guessing345",
+  "version": "2.0.3",
+  "description": "This is Number Guessing Number",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cli-number-guessing345": "^2.0.3",
+    "init": "^0.1.2",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
